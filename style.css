@@ -1,14 +1,15 @@
 .background {
-	background-color: black;
+  background-color: black;
 }
+
 p {
-	color: white;
+  color: white;
 }
 
 #button {
-	background-color: red;
+  background-color: red;
 }
 
 #button2 {
-	background-color: red;
+  background-color: red;
 }
